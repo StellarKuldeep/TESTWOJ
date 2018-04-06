@@ -10,6 +10,7 @@
 
 @interface ViewController : UIViewController
 
+@property (nonnull) NSString *abc;
 
 @end
 
